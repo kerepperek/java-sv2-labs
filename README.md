@@ -1,0 +1,1 @@
+* Struktúra váltás 2.0 feladataim
