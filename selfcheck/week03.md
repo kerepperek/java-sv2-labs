@@ -9,16 +9,16 @@ a típusokról, az operátorokról, valamint a szöveges típusról.
 * [X] Objektumok gyakorlati feladat
 * [X] [Bevezetés az attribútumok használatába videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709844-bevezetes-az-attributumok-hasznalataba)
 * [X] Bevezetés az attribútumok használatába gyakorlati feladat
-* [ ] [Bevezetés a konstruktorok használatába videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709653-bevezetes-a-konstruktorok-hasznalataba)
-* [ ] Bevezetés a konstruktorok használatába gyakorlati feladat
-* [ ] [Bevezetés a metódusok használatába videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709834-bevezetes-a-metodusok-hasznalataba)
-* [ ] Bevezetés a metódusok használatába gyakorlati feladat
-* [ ] [Referenciák videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709845-referenciak)
-* [ ] Referenciák gyakorlati feladat
-* [ ] [Kompozíció videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28188876-kompozicio)
-* [ ] Kompozíció gyakorlati feladat
-* [ ] [Kompozíció listával videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28188892-kompozicio-listaval)
-* [ ] Kompozíció listával gyakorlati feladat
+* [X] [Bevezetés a konstruktorok használatába videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709653-bevezetes-a-konstruktorok-hasznalataba)
+* [X] Bevezetés a konstruktorok használatába gyakorlati feladat
+* [X] [Bevezetés a metódusok használatába videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709834-bevezetes-a-metodusok-hasznalataba)
+* [X] Bevezetés a metódusok használatába gyakorlati feladat
+* [X] [Referenciák videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709845-referenciak)
+* [X] Referenciák gyakorlati feladat
+* [X] [Kompozíció videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28188876-kompozicio)
+* [X] Kompozíció gyakorlati feladat
+* [X] [Kompozíció listával videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28188892-kompozicio-listaval)
+* [X] Kompozíció listával gyakorlati feladat
 
 ## Típusok és operátorok
 
@@ -62,7 +62,7 @@ a típusokról, az operátorokról, valamint a szöveges típusról.
 * [X] 2021-10-25 konzultáció gyakorlati feladat
 * [X] 2021-10-26 konzultáció részvétel/videó
 * [X] 2021-10-26 konzultáció gyakorlati feladat
-* [ ] 2021-10-28 konzultáció részvétel/videó
-* [ ] 2021-10-28 konzultáció gyakorlati feladat
-* [ ] 2021-10-29 konzultáció részvétel/videó
-* [ ] 2021-10-29 konzultáció gyakorlati feladat
+* [X] 2021-10-28 konzultáció részvétel/videó
+* [X] 2021-10-28 konzultáció gyakorlati feladat
+* [X] 2021-10-29 konzultáció részvétel/videó
+* [X] 2021-10-29 konzultáció gyakorlati feladat
