@@ -11,9 +11,9 @@ Ezen a héten a kivétel- és fájlkezelést fogjátok alapszinten megismerni.
 * [X] [Kivétel a hívási láncban videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177718-kivetel-a-hivasi-lancban)
 * [X] Kivétel a hívási láncban gyakorlati feladat
 * [X] [Kivétel kezelése videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177738-kivetel-kezelese)
-* [ ] Kivétel kezelése gyakorlati feladat
+* [X] Kivétel kezelése gyakorlati feladat
 * [X] [Kivétel kezelése a hívási láncban videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177746-kivetel-kezelese-a-hivasi-lancban)
-* [ ] Kivétel kezelése a hívási láncban gyakorlati feladat
+* [X] Kivétel kezelése a hívási láncban gyakorlati feladat
 * [X] [Kivétel eldobása videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177790-kivetel-eldobasa)
 * [ ] Kivétel eldobása gyakorlati feladat
 * [X] [Kivételkezelés tesztelése JUnit 4 használatával videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177875-kivetelkezeles-tesztelese-junit-4-hasznalataval)
