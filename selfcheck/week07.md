@@ -36,9 +36,9 @@ Ezen a héten nagyrészt ismétlés következik, néhány újabb ismerettel: a p
 * [ ] Változó hosszúságú paraméterlista gyakorlati feladat
 * [X] [Metódus hívások láncolása videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525922-metodus-hivasok-lancolasa)
 * [ ] Metódus hívások láncolása gyakorlati feladat
-* [ ] [Metódusnév túlterhelés videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525928-metodusnev-tulterheles)
+* [X] [Metódusnév túlterhelés videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525928-metodusnev-tulterheles)
 * [ ] Metódusnév túlterhelés gyakorlati feladat
-* [ ] [Statikus attribútumok és metódusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525936-statikus-attributumok-es-metodusok)
+* [X] [Statikus attribútumok és metódusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525936-statikus-attributumok-es-metodusok)
 * [ ] Statikus attribútumok és metódusok gyakorlati feladat
 
 ## Konstruktorok és inicializátorok
@@ -57,6 +57,6 @@ Ezen a héten nagyrészt ismétlés következik, néhány újabb ismerettel: a p
 * [X] 2021-11-23 konzultáció részvétel/videó
 * [X] 2021-11-23 konzultáció gyakorlati feladat
 * [X] 2021-11-25 konzultáció részvétel/videó
-* [ ] 2021-11-25 konzultáció gyakorlati feladat
+* [X] 2021-11-25 konzultáció gyakorlati feladat
 * [ ] 2021-11-26 konzultáció részvétel/videó
 * [ ] 2021-11-26 konzultáció gyakorlati feladat
