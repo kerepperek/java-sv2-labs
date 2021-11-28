@@ -6,7 +6,7 @@ Ezen a héten nagyrészt ismétlés következik, néhány újabb ismerettel: a p
 ## Programozási tételek és egyéb algoritmusok
 
 * [X] [Összegzés tétele videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/16980666-osszegzes-tetele)
-* [ ] Összegzés tétele gyakorlati feladat
+* [X] Összegzés tétele gyakorlati feladat
 * [X] [Számlálás tétele videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/16980667-szamlalas-tetele)
 * [ ] Számlálás tétele gyakorlati feladat
 * [X] [Szélsőérték keresés tétele videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/16980670-szelsoertek-kereses-tetele)
