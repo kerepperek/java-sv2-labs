@@ -5,8 +5,8 @@ fogtok megismerkedni.
 
 ## Öröklődés
 
-* [ ] [Öröklődés videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29592409-oroklodes)
-* [ ] Öröklődés gyakorlati feladat
+* [X] [Öröklődés videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29592409-oroklodes)
+* [] Öröklődés gyakorlati feladat
 * [ ] [Konstruktorok és az öröklődés viszonya videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29592419-konstruktorok-es-az-oroklodes-viszonya)
 * [ ] Konstruktorok és az öröklődés viszonya gyakorlati feladat
 * [ ] [Statikus és dinamikus típus videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29556759-statikus-es-dinamikus-tipus)
@@ -25,8 +25,8 @@ fogtok megismerkedni.
 
 ## Konzultációk
 
-* [ ] 2021-11-29 konzultáció részvétel/videó
-* [ ] 2021-11-29 konzultáció gyakorlati feladat
+* [X] 2021-11-29 konzultáció részvétel/videó
+* [X] 2021-11-29 konzultáció gyakorlati feladat
 * [ ] 2021-11-30 konzultáció részvétel/videó
 * [ ] 2021-11-30 konzultáció gyakorlati feladat
 * [ ] 2021-12-02 konzultáció részvétel/videó
