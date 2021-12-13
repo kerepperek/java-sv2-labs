@@ -39,4 +39,4 @@ fogtok megismerkedni.
 * [X] 2021-12-07 konzultáció gyakorlati feladat
 * [X] 2021-12-08 konzultáció részvétel/videó
 * [X] 2021-12-08 konzultáció gyakorlati feladat
-* [ ] 2021-12-09 minta vizsga feladatsor
+* [X] 2021-12-09 minta vizsga feladatsor
