@@ -6,9 +6,9 @@ fogtok megismerkedni.
 ## Absztrakt osztályok és interfészek
 
 * [X] [Interfészek videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29593820-interfeszek)
-* [ ] Interfészek gyakorlati feladat
+* [X] Interfészek gyakorlati feladat
 * [X] [Interfészekkel kapcsolatos szabályok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29593828-interfeszekkel-kapcsolatos-szabalyok)
-* [ ] Interfészekkel kapcsolatos szabályok gyakorlati feladat
+* [X] Interfészekkel kapcsolatos szabályok gyakorlati feladat
 * [X] [Dependency inversion videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29593839-dependency-inversion)
 * [ ] Dependency inversion gyakorlati feladat
 * [X] [Default interfész metódusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29593845-default-interfesz-metodusok)
