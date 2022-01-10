@@ -9,8 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>projects</module>
-        <module>projects/sv2-2021-jvjbf-mintavizsga</module>
+        <module>projects/catalog</module>
     </modules>
 
 
