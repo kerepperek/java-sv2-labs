@@ -1,25 +1,54 @@
-# Tizenegyedik hét (2022-01-03 - 2022-01-09)
+# Tizenkettedik hét (2022-01-10 - 2022-01-16)
 
-Ezen a héten a kivételkezelésről szerzett ismereteiteket fogjátok bővíteni.
+Ezen a héten a kollekciókkal fogtok részletesebben megismerkedni.
 
-## Haladó kivételkezelés
+## Belső osztályok
 
-* [X] [Kivételkezelés videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29772378-kivetelkezeles)
-* [X] Kivételkezelés gyakorlati feladat
-* [X] [Saját kivétel videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29772385-sajat-kivetel)
-* [ ] Saját kivétel gyakorlati feladat
-* [X] [Multi catch videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29772388-multi-catch)
-* [ ] Multi catch gyakorlati feladat
-* [X] [Try-With-Resources szerkezet videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29772391-try-with-resources-szerkezet)
-* [ ] Try-With-Resources szerkezet gyakorlati feladat
+* [X] [Belső osztályok videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/29778400-belso-osztalyok)
+* [ ] Belső osztályok gyakorlati feladat
+
+## Generikusok
+
+* [X] [Generikusok használata, diamond operátor videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769614-generikusok-hasznalata-diamond-operator)
+* [ ] Generikusok használata, diamond operátor gyakorlati feladat
+
+## Kollekciók
+
+* [X] [Az equals() és hashCode() metódusok videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769615-az-equals-es-hashcode-metodusok)
+* [ ] Az equals() és hashCode() metódusok gyakorlati feladat
+* [X] [List, ArrayList kontra LinkedList videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769616-list-arraylist-kontra-linkedlist)
+* [ ] List, ArrayList kontra LinkedList gyakorlati feladat
+* [X] [Set videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769617-set)
+* [ ] Set gyakorlati feladat
+* [X] [Queue videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769618-queue)
+* [ ] Queue gyakorlati feladat
+* [X] [Map videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769620-map)
+* [ ] Map gyakorlati feladat
+* [X] [Autoboxing használata kollekcióknál videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769619-autoboxing-hasznalata-kollekcioknal)
+* [ ] Autoboxing használata kollekcióknál gyakorlati feladat
+
+## Műveletek kollekciókkal
+
+* [X] [Bejárás videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769621-bejaras)
+* [ ] Bejárás gyakorlati feladat
+* [X] [A Comparator és Comparable interfészek videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769622-a-comparator-es-comparable-interfeszek)
+* [ ] A Comparator és Comparable interfészek gyakorlati feladat
+* [X] [Keresés videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769623-kereses)
+* [ ] Keresés gyakorlati feladat
+* [X] [Rendezés videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769624-rendezes)
+* [ ] Rendezés gyakorlati feladat
+* [X] [Collections osztály (keresésen, rendezésen felüli metódusok) videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769625-collections-osztaly-keresesen-rendezesen-feluli-metodusok)
+* [ ] Collections osztály (keresésen, rendezésen felüli metódusok) gyakorlati feladat
+* [X] [A clone() metódus, deep clone videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769626-a-clone-metodus-deep-clone)
+* [ ] A clone() metódus, deep clone gyakorlati feladat
 
 ## Konzultációk
 
-* [X] 2022-01-03 konzultáció részvétel/videó
-* [X] 2022-01-03 konzultáció gyakorlati feladat
-* [X] 2022-01-04 konzultáció részvétel/videó
-* [X] 2022-01-04 konzultáció gyakorlati feladat
-* [X] 2022-01-06 konzultáció részvétel/videó
-* [X] 2022-01-06 konzultáció gyakorlati feladat
-* [X] 2022-01-07 konzultáció részvétel/videó
-* [X] 2022-01-07 konzultáció gyakorlati feladat
+* [X] 2022-01-10 konzultáció részvétel/videó
+* [X] 2022-01-10 konzultáció gyakorlati feladat
+* [X] 2022-01-11 konzultáció részvétel/videó
+* [X] 2022-01-11 konzultáció gyakorlati feladat
+* [ ] 2022-01-13 konzultáció részvétel/videó
+* [ ] 2022-01-13 konzultáció gyakorlati feladat
+* [ ] 2022-01-14 konzultáció részvétel/videó
+* [ ] 2022-01-14 konzultáció gyakorlati feladat
