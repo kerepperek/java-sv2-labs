@@ -32,15 +32,15 @@ Ezen a héten a kollekciókkal fogtok részletesebben megismerkedni.
 * [X] [Bejárás videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769621-bejaras)
 * [X] Bejárás gyakorlati feladat
 * [X] [A Comparator és Comparable interfészek videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769622-a-comparator-es-comparable-interfeszek)
-* [ ] A Comparator és Comparable interfészek gyakorlati feladat
+* [X] A Comparator és Comparable interfészek gyakorlati feladat
 * [X] [Keresés videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769623-kereses)
-* [ ] Keresés gyakorlati feladat
+* [X] Keresés gyakorlati feladat
 * [X] [Rendezés videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769624-rendezes)
-* [ ] Rendezés gyakorlati feladat
+* [X] Rendezés gyakorlati feladat
 * [X] [Collections osztály (keresésen, rendezésen felüli metódusok) videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769625-collections-osztaly-keresesen-rendezesen-feluli-metodusok)
-* [ ] Collections osztály (keresésen, rendezésen felüli metódusok) gyakorlati feladat
+* [X] Collections osztály (keresésen, rendezésen felüli metódusok) gyakorlati feladat
 * [X] [A clone() metódus, deep clone videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769626-a-clone-metodus-deep-clone)
-* [ ] A clone() metódus, deep clone gyakorlati feladat
+* [X] A clone() metódus, deep clone gyakorlati feladat
 
 ## Konzultációk
 
