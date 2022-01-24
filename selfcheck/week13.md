@@ -25,11 +25,11 @@ mindenképpen végezze el ezeket a leckéket is.
 * [X] [Lambda kifejezések videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16981999-lambda-kifejezesek)
 * [X] Lambda kifejezések gyakorlati feladat
 * [X] [Az Optional osztály használata videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16982013-az-optional-osztaly-hasznalata)
-* [ ] Az Optional osztály használata gyakorlati feladat
+* [X] Az Optional osztály használata gyakorlati feladat
 * [X] [Comparator módosítások videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16982014-comparator-modositasok)
-* [ ] Comparator módosítások gyakorlati feladat
+* [X] Comparator módosítások gyakorlati feladat
 * [X] [Streamek videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16982034-streamek)
-* [ ] Streamek gyakorlati feladat
+* [X] Streamek gyakorlati feladat
 * [X] [Közbenső műveletek videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16982041-kozbenso-muveletek)
 * [ ] Közbenső műveletek gyakorlati feladat
 * [X] [Primitívek használata streamekben videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16982044-primitivek-hasznalata-streamekben)
