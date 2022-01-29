@@ -31,11 +31,11 @@ mindenképpen végezze el ezeket a leckéket is.
 * [X] [Streamek videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16982034-streamek)
 * [X] Streamek gyakorlati feladat
 * [X] [Közbenső műveletek videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16982041-kozbenso-muveletek)
-* [ ] Közbenső műveletek gyakorlati feladat
+* [X] Közbenső műveletek gyakorlati feladat
 * [X] [Primitívek használata streamekben videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16982044-primitivek-hasznalata-streamekben)
-* [ ] Primitívek használata streamekben gyakorlati feladat
+* [X] Primitívek használata streamekben gyakorlati feladat
 * [X] [Collectorok videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/16982047-collectorok)
-* [ ] Collectorok gyakorlati feladat
+* [X] Collectorok gyakorlati feladat
 
 ## Konzultációk
 
